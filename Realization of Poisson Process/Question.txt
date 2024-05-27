@@ -1,0 +1,2 @@
+1.)At a certain shop, inter-arrival time of customers is exponentially distributed with an average of 2 customers per minutes. Simulate a stochastic process N(t) for t=2 hours.
+2.)Simulate a Poisson process sample path in R by starting off with exponentially distributed random variables. For example, for a value of λ=0.5, generate 500 samples and then plot the Poisson process path on a time interval of [0,10].
